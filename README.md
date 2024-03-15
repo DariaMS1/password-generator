@@ -29,7 +29,7 @@ You could either clone the repo on your local machine using "git clone <repo-lin
 
 Click on the 'Generate Button' to begin prompting.
 
-![alt text](/challenge/assets/images/Screenshot%202024-03-15%20003544.png)
+![alt text](/assets/images/Screenshot%202024-03-15%20003544.png)
 
 ## Credits
 
