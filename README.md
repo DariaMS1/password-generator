@@ -23,7 +23,7 @@ Overall I learned about the limitation of scoping and difficulty in function nes
 
 You could either clone the repo on your local machine using "git clone <repo-link>" inside the terminal or access it on the deployed page. 
 
-
+Deployed page URL: https://dariams1.github.io/password-generator/ 
 
 ## Usage
 
